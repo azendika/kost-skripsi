@@ -4,7 +4,7 @@
 <div class="container-fluid">
     <div class="row flex-nowrap">
         <div class="col py-3">
-            <a href="{{ route('kamar.index') }}" class="btn btn-secondary mb-3">KembaliS</a>
+            <a href="{{ route('kamar.index') }}" class="btn btn-secondary mb-3">KembaliSSS</a>
             <form action="{{ route('kamar.store') }}" method="post">
                 @csrf
                 <div class="my-3 p-3 bg-body rounded shadow-sm">
